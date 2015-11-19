@@ -3,9 +3,27 @@
         display: block;
     }
 }
-.zerom{
-    margin: 0px;
+.zero-m{
+    margin: 0 !important;
 }
-.zerop{
-    padding: 0px !important;
+.zero-p{
+    padding: 0 !important;
 }
+.no-shadow{
+    box-shadow: 0 0 0;
+}
+.tabs .indicator{
+    background-color: #673ab7;
+}
+.tabs .tab a{
+    color: #673ab7;
+}
+.tabs .tab a:hover {
+    color: #914bf4;
+}
+nav{
+    background-color: #26a69a;
+}
+/*ul.collapsible{*/
+    /*margin-top: 0px;*/
+/*}*/
